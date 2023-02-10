@@ -1,0 +1,19 @@
+{
+  "name": "mkrefferenceGost",
+  "version": "1.0.0",
+  "description": "tool to make academic reference  list in Russian government standard for PHD",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concat-files": "^0.1.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
